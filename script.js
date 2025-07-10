@@ -10,15 +10,24 @@ console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
 
 //Escribe tu código aquí
 
-
-
+console.log('Hola familia de F5😁')
 
 //VARIABLES Y TIPOS DE DATOS
 //Ejercicio 2: Crea una variable por los siguientes tipos de dato: string, number, boolean, null, undefined, object, array e imprímelos en la consola.
 
 //Escribe tu código aquí
 
+let string = 'Hola'
+let number = 1
+let boolean = true
+let nullValue = null
+let undefinedValue = undefined
+let object = {}
+let array = []
 
+
+
+console.log(string, number, boolean, nullValue, undefinedValue, object, array)
 
 
 //OPERADORES ARITMÉTICOS
@@ -26,28 +35,40 @@ console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
 
 //Escribe tu código aquí
 
-
+let number1 = 1
+let number2 = 1
+let sumaNumber = number1 + number2
+console.log(sumaNumber)
 
 
 //Ejercicio 5: Crea una varible que reste 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
 
-
+number1 = 20
+number2 = 5
+let restarNumber = number1 - number2
+console.log(restarNumber)
 
 
 //Ejercicio 6: Crea una varible que multiplique 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
 
-
+number1 = 1
+number2 = 8
+let multiplicarNumber = number1 * number2
+console.log(multiplicarNumber)
 
 
 //Ejercicio 7: Crea una varible que divida 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
 
-
+number1 = 2
+number2 = 2
+let dvidirNumber = number1 / number2
+console.log(dvidirNumber)
 
 
 //OPERADORES DE COMPARACIÓN
