@@ -87,7 +87,7 @@ console.log(varComaparacion);
 //Escribe tu código aquí
 
 let varComaparacion2 = (var1 != var2);
-console.log(varComparison2);
+console.log(varComaparacion2);
 
 //Ejercicio 10: completa el ejercicio
 let num1 = 15
